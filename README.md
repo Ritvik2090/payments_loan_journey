@@ -39,7 +39,7 @@ payments_loan_journey/
                                               EMI Schedule Begins
                                                     ↓
                               ┌─────────────────────────────────┐
-                              │         Monthly EMI Due          │
+                              │         Monthly EMI Due         │
                               └─────────────────────────────────┘
                                         ↓              ↓
                                    Paid on time      Missed
@@ -56,7 +56,7 @@ payments_loan_journey/
                                           Collections Process Triggered
                                                        ↓
                               ┌──────────────────────────────────────┐
-                              │  Resolved?                            │
+                              │  Resolved?                           │
                               │  Yes → Loan Closed (NOC issued)  ✅  │
                               │  No  → Settlement / Write-Off    ❌  │
                               └──────────────────────────────────────┘
